@@ -1,0 +1,1 @@
+在SMAS到neck這個地方有一個重點就是經過mandible之後呢 如果你還維持在SMAS的下方 那也就是platysma的下方 這樣子因為cervical branch會走在platysma下方 所以呂訓義醫師是建議經過mandible之後就不要再剝subplatysma 所以那剛才院長也有說 如果走在platysma上方是安全的 不過這裡要從哪邊切破SMAS 這是一個問題 而且SMAS往上拉 但是你把它切斷了 那麼就對neck就沒有拉扯的力量了 有一個很重要的重點 High SMAS的時候 切線要在耳朵前方三公分 避開frontal branch走的方向 這樣才不會傷到frontal branch 然後往前剝的時候要剝到看到zygomaticus major minor以及看到ON

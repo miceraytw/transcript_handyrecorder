@@ -1,0 +1,1 @@
+病人如果拉皮後有sinus的時候,打肉毒是最好的選擇,而且要打在source的地方,就是說譬如說閉眼睛的時候會微笑,那麼要請他閉眼睛然後打在orbicularis oculi附近,而不是直接打在lagomatis major,打太多botox會造成眼睛關不緊,但是呂醫師說,因為obicularis有三層,所以不太容易,一邊打12u。
