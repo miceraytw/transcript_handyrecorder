@@ -73,3 +73,9 @@
 - Expanded `wiki/patterns/表演前導與家庭式練習` with coaching-language and retry prompts as first-class evidence
 - Expanded `wiki/domains/學習與課業` and `wiki/patterns/課業展示與朗讀輔導` with short school-topic intro examples
 - Updated `wiki/people/孫時晴`
+
+## [2026-04-18] batch ingest | early facelift conference transcripts
+- Added 4 source notes from the 20170604 facelift meeting, covering one opening/background segment, two technical/method talks, and one case discussion
+- Expanded `wiki/domains/演講與簡報` to treat multi-part conference recordings as one event context instead of isolated clips
+- Expanded `wiki/patterns/拉皮手術設計與風險` with midface / malar fat pad / volume tradeoff language from earlier facelift talks
+- Updated `wiki/index.md`
