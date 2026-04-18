@@ -89,3 +89,8 @@
 - Added 2 source notes from the tail end of the 20170604 facelift meeting, focused on plane finding, thickness handling, plication, and how neck / nasolabial concerns are judged in practice
 - Marked two remaining 20170604 clips as low-signal rather than forcing ingestion
 - Expanded `wiki/patterns/拉皮手術設計與風險` and `wiki/patterns/錄音品質與低訊號檔案`
+
+## [2026-04-18] lint | facelift lecture cluster
+- Tightened evidence levels across facelift pages so main lectures, supporting method talks, and Q&A fragments no longer read as if they carry equal weight
+- Added explicit signal split to `wiki/patterns/拉皮手術設計與風險`
+- Added evidence posture to `wiki/domains/會議與討論` and clarified that Q&A is valuable but still lower-confidence than stable main lectures
