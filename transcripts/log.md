@@ -79,3 +79,8 @@
 - Expanded `wiki/domains/演講與簡報` to treat multi-part conference recordings as one event context instead of isolated clips
 - Expanded `wiki/patterns/拉皮手術設計與風險` with midface / malar fat pad / volume tradeoff language from earlier facelift talks
 - Updated `wiki/index.md`
+
+## [2026-04-18] batch ingest | more facelift lecture and Q&A transcripts
+- Added 4 more source notes from the 20170604 facelift meeting, covering individualized planning, comprehensive rejuvenation concepts, liposuction/dissection Q&A, and one expectation-setting prompt about longevity
+- Expanded `wiki/domains/會議與討論` so facelift Q&A now explicitly carries patient-selection, revision-timing, and technical tradeoff value
+- Expanded `wiki/patterns/拉皮手術設計與風險` with skin-thickness preservation, liposuction caution, and broader facial rejuvenation framing
