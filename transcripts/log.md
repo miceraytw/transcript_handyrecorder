@@ -84,3 +84,8 @@
 - Added 4 more source notes from the 20170604 facelift meeting, covering individualized planning, comprehensive rejuvenation concepts, liposuction/dissection Q&A, and one expectation-setting prompt about longevity
 - Expanded `wiki/domains/會議與討論` so facelift Q&A now explicitly carries patient-selection, revision-timing, and technical tradeoff value
 - Expanded `wiki/patterns/拉皮手術設計與風險` with skin-thickness preservation, liposuction caution, and broader facial rejuvenation framing
+
+## [2026-04-18] batch ingest | facelift meeting tail-end technical fragments
+- Added 2 source notes from the tail end of the 20170604 facelift meeting, focused on plane finding, thickness handling, plication, and how neck / nasolabial concerns are judged in practice
+- Marked two remaining 20170604 clips as low-signal rather than forcing ingestion
+- Expanded `wiki/patterns/拉皮手術設計與風險` and `wiki/patterns/錄音品質與低訊號檔案`
